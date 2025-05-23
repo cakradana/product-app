@@ -30,7 +30,7 @@ const App: React.FC = () => {
           <div>
             <div className="mb-8">
               <h1 className="text-3xl font-bold text-gray-900 dark:text-gray-100">
-                Product Catalog
+                Product Store
               </h1>
               <p className="mt-2 text-gray-600 dark:text-gray-400">
                 Browse our collection of products and add your favorites to the
